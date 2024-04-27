@@ -49,7 +49,7 @@ class Player(GameSprite):
 #Creating a window
 win_width = 700
 win_height = 500
-display.set_caption("Maze")
+display.set_caption("Maze versi 2")
 window = display.set_mode((win_width, win_height))
 back = (119, 210, 223)#setting the color according to the RGB color scheme
 #creating wall pictures
