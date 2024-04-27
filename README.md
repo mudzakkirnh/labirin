@@ -1,1 +1,3 @@
 # labirin
+
+Menggunakan python
